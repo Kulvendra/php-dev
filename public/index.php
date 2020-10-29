@@ -9,12 +9,15 @@
 </head>
 <body>
 
-    <?php $devName = "Kulvendra Singh" ?>
-    <?php include(SHARED_PATH.'/header.php') ?>
+    <div class="container-fluid">
 
+    <?php $devName = "Kulvendra Singh" ?>
+
+    <?php include(SHARED_PATH.'/header.php') ?>
+    <?php include(SHARED_PATH.'/content.php')?>
     <?php include(SHARED_PATH.'/footer.php') ?>
 
-   
+    </div>
 
  
     

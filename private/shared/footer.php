@@ -1,6 +1,6 @@
 
+<footer class="card-footer text-muted fixed-bottom text-center">
 
-<footer class="card-footer text-muted">
-    Dolcera <?php echo date('Y')?> 
-    Developed by <?php  echo $devName ?>
-</footer>
+Dolcera <?php echo date('Y')?> 
+Developed by <?php  echo $devName ?>
+</footer>    
